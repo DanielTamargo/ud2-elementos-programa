@@ -1,4 +1,4 @@
-package com.company;
+package com.tamargo;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,7 +14,7 @@ public class Main {
         System.out.print("Valor: ");
 
         int n = Integer.parseInt(br.readLine());
-        int total = 1;
+        long total = 1;
         int i;
 
         for (i = 1; i < n+1; i++) {
@@ -22,7 +22,7 @@ public class Main {
         }
         System.out.println("El factorial es: "+total);
 
-        //me calcula bien todos los factoriales hasta el 13, a partir de entonces da valores incorrectos
-        //¿hay un límite a la hora de calcular números grandes?
+        //int=32
+        //long=64
     }
 }
