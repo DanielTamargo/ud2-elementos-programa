@@ -25,11 +25,6 @@ public class Main {
                     System.out.print(+cuenta+", ");
                     cuenta = cuenta + 2;
                 }
-                //para hacer que quede bonito y que al final tenga un punto volveré a hacer un if
-                if (x.equals("par")) {
-                    System.out.print("198.");
-                } else {
-                    System.out.print("199.");
-                }
+            System.out.print(+cuenta+".");
     }
 }
