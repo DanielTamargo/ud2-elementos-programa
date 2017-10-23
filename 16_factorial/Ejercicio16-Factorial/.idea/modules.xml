@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ejercicio16-Factorial.iml" filepath="$PROJECT_DIR$/Ejercicio16-Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio16-FactorialClase.iml" filepath="$PROJECT_DIR$/Ejercicio16-FactorialClase.iml" />
     </modules>
   </component>
 </project>
